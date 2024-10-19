@@ -5,7 +5,9 @@ export const content = [
 
 export const theme = {
   extend: {
-   
+    fontFamily: {
+      poppins: ["Poppins", "sans-serif"], 
+    },
   },
 };
 
